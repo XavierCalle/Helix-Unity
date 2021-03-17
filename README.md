@@ -2,6 +2,7 @@
 * **HELIX** 
 * **Unity** 
 
+## Resumen
 * Creación de un juego tipo Helix 
 * Se utilizó Unity para el desarrollo del mismo
 
