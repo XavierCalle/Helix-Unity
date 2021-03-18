@@ -6,9 +6,9 @@
 * Creación de un juego tipo Helix 
 * Se utilizó Unity para el desarrollo del mismo
 
-### [Vídeo explicativo de la realización del proyecto](https://adapp-8ab2c.firebaseapp.com/)
+### [Vídeo explicativo de la realización del proyecto](https://youtu.be/IsWvHPYF-ec)
 
-### [Vídeo explicativo del funcionamiento](https://adapp-8ab2c.firebaseapp.com/)
+### [Vídeo explicativo del funcionamiento](https://youtu.be/IRAFFQ7i8-s)
 
 
 ## Autores
